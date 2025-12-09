@@ -1,0 +1,27 @@
+
+Base (Optimistic Rollup)
+
+Built on OP Stack
+
+Uses fraud proofs (optimistic assumption)
+
+Finality depends on a challenge window (usually ~7 days)
+
+Easier and cheaper to implement
+
+Robust thanks to shared modules from Optimism Collective and Coinbase
+
+zkSync (ZK-Rollup)
+
+Built with zero-knowledge proofs
+
+Transactions are verified instantly using cryptography
+
+Fast finality (seconds, not days)
+
+More complex math → harder to implement but more secure
+
+Two main products: zkSync Lite (payment rollup) and zkSync Era (EVM-compatible ZK-rollup)
+
+Verdict:
+ZK-rollups are the future of L2 scaling, but Optimistic Rollups still dominate due to simplicity and maturity.
