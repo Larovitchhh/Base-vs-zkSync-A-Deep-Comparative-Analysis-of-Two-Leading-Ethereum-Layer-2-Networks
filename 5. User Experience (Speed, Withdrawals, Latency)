@@ -1,0 +1,21 @@
+
+Base UX
+
+Deposits: minutes
+
+Withdrawals: ~7 days to L1 (typical for Optimistic L2s)
+
+Extremely reliable RPCs and infra thanks to Coinbase
+
+zkSync UX
+
+Deposits: seconds
+
+Withdrawals: minutes
+
+Near-instant inclusion into ZK batches
+
+UX feels “L1-like” for high-velocity apps
+
+Verdict:
+zkSync is unmatched for withdrawals and instant finality.
