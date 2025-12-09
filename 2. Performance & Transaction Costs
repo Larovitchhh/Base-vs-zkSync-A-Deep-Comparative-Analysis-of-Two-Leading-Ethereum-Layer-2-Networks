@@ -1,0 +1,22 @@
+
+Base
+
+Low gas thanks to data compression via OP Stack
+
+Throughput increases as OP Stack evolves
+
+Finality delayed because of fraud-proof window
+
+Very stable pricing patterns
+
+zkSync
+
+Ultra-low gas fees (often lower than Optimistic L2s)
+
+Faster settlement → immediate UX benefits
+
+Batch proof generation can spike node load but not user fees
+
+Verdict:
+If your priority is speed + lowest possible gas, zkSync generally wins.
+If your priority is predictable stability, Base is exceptional.
